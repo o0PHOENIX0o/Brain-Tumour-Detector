@@ -1,0 +1,8 @@
+!pip install tensorflow
+!pip install keras
+!pip install pillow
+!pip install matplotlib
+!pip install numpy
+!pip install pandas
+!pip install sklearn
+!pip install opencv-python
