@@ -1,0 +1,10 @@
+Dataset,Subdirectory,File Count,Description
+Training,glioma,1321,
+Training,meningioma,1339,
+Training,notumor,1595,
+Training,,,
+Testing,glioma,300,
+Testing,meningioma,306,
+Testing,notumor,405,
+Testing,pituitary,300,
+Testing,,,
