@@ -61,7 +61,7 @@ async function predictTumor() {
 
   resultDiv.innerHTML = "";
   detailsDiv.innerHTML = "";
-  loadingDiv.classList.remove("hidden"); // Show loading indicator
+  loadingDiv.classList.remove("hidden");
 
   try {
     const response = await fetch("http://127.0.0.1:5000/predict", {
